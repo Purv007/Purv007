@@ -108,7 +108,7 @@ public class Purv {
 
 ---
 
-<!-- ## 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -129,13 +129,13 @@ public class Purv {
 
 </div>
 
----
+<!-- ---
 
 ## 🚀 Featured Projects
 
 - **Air Quality Monitoring and Forecasting System** — Real-time AQI ML pipeline (Random Forest, 94% accuracy), deployed on AWS Elastic Beanstalk with DynamoDB + IAM.
 - **NextRound – AI-Powered Interview Prep Platform** — Full-stack MERN app with JWT + Google OAuth 2.0 auth and a Gemini-powered resume analysis pipeline generating PDF interview reports.
-- **Parallel CNN Image Classifier (LeNet)** — Benchmarked CPU/GPU/multithreaded training, achieving up to 47.2× speedup and 0.98 accuracy.
+- **Parallel CNN Image Classifier (LeNet)** — Benchmarked CPU/GPU/multithreaded training, achieving up to 47.2× speedup and 0.98 accuracy. -->
 
 --- -->
 
