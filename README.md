@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Purv%20Patel&fontSize=75&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20VIT%20Vellore&descAlignY=60&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Hey+there!+Let's+Connect+%F0%9F%91%8B;Software+Developer+%26+Cloud+Engineer+%F0%9F%9A%80;CGPA+9.11+%40+VIT+Vellore+%F0%9F%8E%93;400%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Published+Patent+Holder+%F0%9F%93%9C;SIH+2025+Top-15+Finalist+%F0%9F%8F%86;MERN+%7C+Spring+Boot+%7C+AWS+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Hey+there!+Let's+Connect+%F0%9F%91%8B;Software+Developer+%26+Cloud+Engineer+%F0%9F%9A%80;CGPA+9.11+%40+VIT+Vellore+%F0%9F%8E%93;450%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Published+Patent+Holder+%F0%9F%93%9C;Flipkart+GRiD+8.0+Pre-Finalist+%F0%9F%8F%86;MERN+%7C+Spring+Boot+%7C+AWS+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <br/>
 
@@ -51,7 +51,8 @@ public class Purv {
 - ☁️ &nbsp; Working with **AWS (Elastic Beanstalk, DynamoDB, IAM, CloudWatch)** for scalable cloud deployments
 - 🧠 &nbsp; Building **Machine Learning pipelines** — from feature processing to low-latency production inference
 - 📜 &nbsp; **Published patent holder**
-- 🏅 &nbsp; **SIH 2025 Top-15 finalist** (nationwide), **AWS** & **Oracle** Certified
+- 🏅 &nbsp; **Selected for the Pre-Final Round of Flipkart GRiD 8.0**, advancing among participants nationwide
+- ☁️ &nbsp; **AWS** & **Oracle** Certified
 - 🤝 &nbsp; Open to **Software Developer, Cloud Engineer & Full-Stack Developer** opportunities
 
     </td>
