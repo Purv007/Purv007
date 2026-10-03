@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purv-patel-b31a84280/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Purv007)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300C853.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portpurrv-three.vercel.app/)
 
 </div>
 
@@ -166,12 +165,6 @@ public class Purv {
 
 <a href="https://github.com/Purv007">
   <img src="https://img.shields.io/badge/GitHub-Follow-%23121011?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://portpurrv-three.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-%2300C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br/><br/>
